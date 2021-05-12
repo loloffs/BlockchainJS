@@ -3,4 +3,4 @@
 
 
 ## Dependencies:
-#### crypto-js
+#### npm install crypto-js
