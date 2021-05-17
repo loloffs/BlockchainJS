@@ -59,3 +59,4 @@ lukeCoin.addBlock(new Block(2, "05/12/2021", { amount: 2 }))
 
 // Check validity of blockchain:
 // console.log("Is blockchain valid?", lukeCoin.isChainValid())
+ 
